@@ -25,3 +25,5 @@
 *   **Music Scene:** Contributed to the development of blues and ragtime music.
 
 **Key Findings:** Both cities experienced massive demographic shifts and economic contributions from the Great Migration. Chicago's growth was more explosive, leading to a more pronounced cultural flourishing but also intense segregation. St. Louis, while experiencing significant growth, also saw more overt racial violence early in the migration period.
+
+**Minor Edits to Introduction:** Clarified the scope of the chapter to specifically focus on the immediate post-migration period (1910-1940) to align with broader thesis structure.
